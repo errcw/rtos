@@ -1,0 +1,7 @@
+Real-Time Operating System
+==========================
+
+The OS comes in three parts:
+- The source code. The C99 code for both the kernel and the train control modules.
+- The kernel documentation. Explains the implementation of the kernel and the serial drivers.
+- The train control documentation. Explains the implementation of the train control program.
